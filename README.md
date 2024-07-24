@@ -1,5 +1,5 @@
-# ePortfolio-Medicina 
+# Portal-Medicina 
 
  
 
-Check [nosso ePortfolio](https://medicina-ucb-2023-2.github.io/ePortfolio-Medicina/)
+Check [nosso Portal](https://medicina-UVA-2023-2.github.io/Portal-Medicina/)
